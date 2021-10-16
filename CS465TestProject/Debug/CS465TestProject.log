@@ -1,0 +1,12 @@
+﻿  Comp465Homework2OpenGL.cpp
+C:\Users\dark_\source\repos\CS465TestProject\CS465ThirdParty\glfw\include\learnopengl\MyShaderLoader.h(56,40): warning C4101: 'e': unreferenced local variable
+C:\Users\dark_\source\repos\CS465TestProject\CS465TestProject\Comp465Homework2OpenGL.cpp(278,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dark_\source\repos\CS465TestProject\CS465TestProject\Comp465Homework2OpenGL.cpp(392,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dark_\source\repos\CS465TestProject\CS465TestProject\Comp465Homework2OpenGL.cpp(393,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dark_\source\repos\CS465TestProject\CS465TestProject\Comp465Homework2OpenGL.cpp(397,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dark_\source\repos\CS465TestProject\CS465TestProject\Comp465Homework2OpenGL.cpp(398,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dark_\source\repos\CS465TestProject\CS465TestProject\Comp465Homework2OpenGL.cpp(400,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dark_\source\repos\CS465TestProject\CS465TestProject\Comp465Homework2OpenGL.cpp(401,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dark_\source\repos\CS465TestProject\CS465TestProject\Comp465Homework2OpenGL.cpp(410,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CS465TestProject.vcxproj -> C:\Users\dark_\source\repos\CS465TestProject\Debug\CS465TestProject.exe
